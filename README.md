@@ -1,2 +1,2 @@
-# notes
-This repo includes different technaloges notes made in excalidraw.
+# docs
+This repo includes my technical docs and notes.
