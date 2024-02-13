@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a08208fbbafe0afb",
+        "id": "948d95d7fdfe5ff6",
         "type": "tabs",
         "children": [
           {
-            "id": "9bbe211c3cc7a978",
+            "id": "82cf420dfa659f1a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 370.5
   },
   "right": {
     "id": "26b5015719849b9b",
@@ -140,14 +140,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9bbe211c3cc7a978",
+  "active": "82cf420dfa659f1a",
   "lastOpenFiles": [
+    "README.md",
+    "OCI Foundation Associate.excalidraw",
+    "Linux Boot Process.excalidraw",
     "AWS Cloud Security Best Practices.excalidraw",
     "Container Security Best Practices.excalidraw",
-    "OCI Foundation Associate.excalidraw",
     "Docker Certified Associate.excalidraw",
-    "Linux Boot Process.excalidraw",
-    "AWS Cloud Security Best Practices.excalidraw.md",
-    "README.md"
+    "AWS Cloud Security Best Practices.excalidraw.md"
   ]
 }

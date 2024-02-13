@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiCloud",
+      "FabReadme",
+      "FabLinux",
+      "FabDocker",
+      "FabAws"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -20,5 +26,11 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
-  }
+  },
+  "AWS Cloud Security Best Practices.excalidraw": "FabAws",
+  "Container Security Best Practices.excalidraw": "FabDocker",
+  "Docker Certified Associate.excalidraw": "FabDocker",
+  "Linux Boot Process.excalidraw": "FabLinux",
+  "README.md": "FabReadme",
+  "OCI Foundation Associate.excalidraw": "LiCloud"
 }
