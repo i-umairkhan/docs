@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "948d95d7fdfe5ff6",
+        "id": "6447c5a8fa213cc1",
         "type": "tabs",
         "children": [
           {
-            "id": "82cf420dfa659f1a",
+            "id": "c230fa714fcd06ab",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 301.5
   },
   "right": {
     "id": "26b5015719849b9b",
@@ -140,14 +140,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82cf420dfa659f1a",
+  "active": "82a330d83d8cc37f",
   "lastOpenFiles": [
+    "Oracle/OCI Foundation Associate.excalidraw",
+    "Linux/Linux Networking.md",
+    "Linux/Linux Boot Process.md",
+    "Linux/Linux Boot Process.excalidraw",
+    "k8s/CKA/k8s-services.pdf",
+    "k8s/CKA/k8s-core-concepts-2.pdf",
+    "k8s/CKA/k8s-core-concepts-1.pdf",
+    "Docker/Docker Certified Associate.excalidraw",
+    "Docker/Container Security Best Practices.excalidraw",
+    "AWS/AWS Cloud Security Best Practices.excalidraw",
+    "Excalidraw/Drawing 2024-02-19 14.57.07.excalidraw.md",
+    "Excalidraw",
     "README.md",
-    "OCI Foundation Associate.excalidraw",
-    "Linux Boot Process.excalidraw",
-    "AWS Cloud Security Best Practices.excalidraw",
-    "Container Security Best Practices.excalidraw",
-    "Docker Certified Associate.excalidraw",
+    "Docker",
     "AWS Cloud Security Best Practices.excalidraw.md"
   ]
 }
