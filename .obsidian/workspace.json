@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6447c5a8fa213cc1",
+        "id": "03d740f309f561f8",
         "type": "tabs",
         "children": [
           {
-            "id": "c230fa714fcd06ab",
+            "id": "5730efa3bda37c89",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 264.5,
+    "collapsed": true
   },
   "right": {
     "id": "26b5015719849b9b",
@@ -142,12 +143,14 @@
   },
   "active": "82a330d83d8cc37f",
   "lastOpenFiles": [
-    "Oracle/OCI Foundation Associate.excalidraw",
-    "Linux/Linux Networking.md",
-    "Linux/Linux Boot Process.md",
+    "Linux/Linux Package Management.md",
+    "Linux/Linux Storage.md",
     "Linux/Linux Boot Process.excalidraw",
-    "k8s/CKA/k8s-services.pdf",
+    "Linux/Linux Boot Process.md",
+    "Linux/Linux Networking.md",
     "k8s/CKA/k8s-core-concepts-2.pdf",
+    "Oracle/OCI Foundation Associate.excalidraw",
+    "k8s/CKA/k8s-services.pdf",
     "k8s/CKA/k8s-core-concepts-1.pdf",
     "Docker/Docker Certified Associate.excalidraw",
     "Docker/Container Security Best Practices.excalidraw",

@@ -54,5 +54,7 @@
   "k8s": {
     "iconName": "SiKubernetes",
     "iconColor": "#107dc1"
-  }
+  },
+  "Linux/Linux Storage.md": "FabLinux",
+  "Linux/Linux Package Management.md": "FabLinux"
 }
