@@ -24,7 +24,9 @@ ___
 - Partitions are organizational units for drives.
 - To check block devices and partition on a system:
 	- `lsblk`.
+	- `df -h`.
 	- `cat /proc/partitions`.
+- To check disk usage of file `du -h file`.
 - Tools for editing partitions on system:
 	- G parted,
 	- `parted`.
