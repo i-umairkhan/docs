@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df241b3605d129d3",
+        "id": "55a6f7d485614c89",
         "type": "tabs",
         "children": [
           {
-            "id": "35ffcbd40679ee4c",
+            "id": "9176a19939385a06",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -140,8 +140,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82a330d83d8cc37f",
+  "active": "9176a19939385a06",
   "lastOpenFiles": [
+    "README.md",
+    "AWS/AWS Cloud Security Best Practices.excalidraw",
     "Linux/Linux Files.md",
     "k8s/CKA/k8s-app-lifecyle.pdf",
     "Linux/Linux Boot Process.excalidraw",
@@ -156,10 +158,8 @@
     "k8s/CKA/k8s-core-concepts-1.pdf",
     "Docker/Docker Certified Associate.excalidraw",
     "Docker/Container Security Best Practices.excalidraw",
-    "AWS/AWS Cloud Security Best Practices.excalidraw",
     "Excalidraw/Drawing 2024-02-19 14.57.07.excalidraw.md",
     "Excalidraw",
-    "README.md",
     "AWS Cloud Security Best Practices.excalidraw.md"
   ]
 }
