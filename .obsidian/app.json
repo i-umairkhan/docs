@@ -1,4 +1,5 @@
 {
   "readableLineLength": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "spellcheck": false
 }

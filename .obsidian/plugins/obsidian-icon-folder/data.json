@@ -58,5 +58,6 @@
   "Linux/Linux Storage.md": "FabLinux",
   "Linux/Linux Package Management.md": "FabLinux",
   "Linux/Linux User Management.md": "FabLinux",
-  "Linux/Linux Files.md": "FabLinux"
+  "Linux/Linux Files.md": "FabLinux",
+  "k8s/K8s Cheatsheet.md": "SiKubernetes"
 }

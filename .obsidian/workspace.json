@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "55a6f7d485614c89",
+        "id": "306786ba8f574f5f",
         "type": "tabs",
         "children": [
           {
-            "id": "9176a19939385a06",
+            "id": "33b1d26a7571aef2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -140,8 +140,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9176a19939385a06",
+  "active": "33b1d26a7571aef2",
   "lastOpenFiles": [
+    "k8s/K8s Cheatsheet.md",
     "README.md",
     "AWS/AWS Cloud Security Best Practices.excalidraw",
     "Linux/Linux Files.md",
