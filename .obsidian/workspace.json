@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "306786ba8f574f5f",
+        "id": "90b186e3255fd096",
         "type": "tabs",
         "children": [
           {
-            "id": "33b1d26a7571aef2",
+            "id": "295d2b1088c9af41",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "right": {
     "id": "26b5015719849b9b",
@@ -140,7 +141,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "33b1d26a7571aef2",
+  "active": "295d2b1088c9af41",
   "lastOpenFiles": [
     "k8s/K8s Cheatsheet.md",
     "README.md",
