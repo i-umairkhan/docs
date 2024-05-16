@@ -1,5 +1,6 @@
 {
   "readableLineLength": false,
   "defaultViewMode": "preview",
-  "spellcheck": false
+  "spellcheck": false,
+  "alwaysUpdateLinks": true
 }

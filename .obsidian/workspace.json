@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90b186e3255fd096",
+        "id": "ffe9a46f9c17a810",
         "type": "tabs",
         "children": [
           {
-            "id": "295d2b1088c9af41",
+            "id": "29b90f8587b20844",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
+    "width": 353.5,
     "collapsed": true
   },
   "right": {
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -122,7 +122,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -141,27 +142,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "295d2b1088c9af41",
+  "active": "82a330d83d8cc37f",
   "lastOpenFiles": [
-    "k8s/K8s Cheatsheet.md",
+    "k8s/Kubernetes Networking.md",
+    "k8s/Flannel CNI plugin.md",
+    "k8s/Calico CNI plugin.md",
+    "Cilium/3. Network Policy.md",
+    "Cilium/2. Cilium Installation.md",
+    "Cilium/1. Cilium Overview.md",
+    "Pasted image 20240508154310.png",
+    "Pasted image 20240508122141.png",
+    "Images/Pasted image 20240504194314.png",
+    "Cilium",
+    "Images/Pasted image 20240505181552.png",
+    "Images/Pasted image 20240504212236.png",
+    "Images/Pasted image 20240504195449.png",
+    "Docker/Container Networking.md",
     "README.md",
-    "AWS/AWS Cloud Security Best Practices.excalidraw",
-    "Linux/Linux Files.md",
-    "k8s/CKA/k8s-app-lifecyle.pdf",
+    "Linux/Linux Boot Process.md",
     "Linux/Linux Boot Process.excalidraw",
     "Linux/Linux User Management.md",
     "Linux/Linux Storage.md",
     "Linux/Linux Package Management.md",
     "Linux/Linux Networking.md",
-    "Linux/Linux Boot Process.md",
-    "k8s/CKA/k8s-core-concepts-2.pdf",
-    "Oracle/OCI Foundation Associate.excalidraw",
-    "k8s/CKA/k8s-services.pdf",
-    "k8s/CKA/k8s-core-concepts-1.pdf",
+    "Linux/Linux Files.md",
+    "Images/flannel-cni-plugin-1.png",
+    "Images/kubernetes-cluster-architecture.svg",
+    "Images/kubernetes-networking-1.png",
+    "Images/kubernetes-networking-8.png",
+    "Certification",
+    "k8s/CKA.md",
+    "k8s/K8s Cheatsheet.md",
+    "Images",
     "Docker/Docker Certified Associate.excalidraw",
+    "AWS/AWS Cloud Security Best Practices.excalidraw",
     "Docker/Container Security Best Practices.excalidraw",
+    "Oracle/OCI Foundation Associate.excalidraw",
+    "k8s/CKA Slides/k8s-app-lifecyle.pdf",
+    "k8s/CKA Slides/k8s-core-concepts-2.pdf",
     "Excalidraw/Drawing 2024-02-19 14.57.07.excalidraw.md",
-    "Excalidraw",
     "AWS Cloud Security Best Practices.excalidraw.md"
   ]
 }

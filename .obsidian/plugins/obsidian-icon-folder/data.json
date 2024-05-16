@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiOracle",
-      "SiKubernetes",
-      "LiCloud",
-      "FabReadme",
-      "FabLinux"
+      "SiCilium",
+      "SiDocker",
+      "FarImage",
+      "RiSlideshow3Fill",
+      "SiOracle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -28,36 +28,33 @@
     "iconIdentifier": ":"
   },
   "README.md": "FabReadme",
-  "AWS": {
-    "iconName": "FabAws",
-    "iconColor": "#aeb011"
-  },
-  "AWS/AWS Cloud Security Best Practices.excalidraw": "FabAws",
-  "Oracle": {
-    "iconName": "SiOracle",
-    "iconColor": "#e02e2e"
-  },
-  "Oracle/OCI Foundation Associate.excalidraw": "SiOracle",
   "Docker": {
     "iconName": "FabDocker",
     "iconColor": "#1685ca"
   },
-  "Docker/Container Security Best Practices.excalidraw": "FabDocker",
-  "Docker/Docker Certified Associate.excalidraw": "FabDocker",
   "Linux": {
     "iconName": "FabLinux",
-    "iconColor": "#adb017"
+    "iconColor": "#ffcd61"
   },
   "Linux/Linux Boot Process.excalidraw": "FabLinux",
   "Linux/Linux Boot Process.md": "FabLinux",
   "Linux/Linux Networking.md": "FabLinux",
   "k8s": {
     "iconName": "SiKubernetes",
-    "iconColor": "#107dc1"
+    "iconColor": "#00bbfa"
   },
   "Linux/Linux Storage.md": "FabLinux",
   "Linux/Linux Package Management.md": "FabLinux",
   "Linux/Linux User Management.md": "FabLinux",
   "Linux/Linux Files.md": "FabLinux",
-  "k8s/K8s Cheatsheet.md": "SiKubernetes"
+  "Images": "FarImage",
+  "Docker/Container Networking.md": "SiDocker",
+  "Docker/Docker Certified Associate.excalidraw": "FabDocker",
+  "k8s/Kubernetes Networking.md": "SiKubernetes",
+  "k8s/Flannel CNI plugin.md": "SiKubernetes",
+  "k8s/Calico CNI plugin.md": "SiKubernetes",
+  "Cilium": {
+    "iconName": "SiCilium",
+    "iconColor": "#43eb2d"
+  }
 }
